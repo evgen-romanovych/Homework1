@@ -1,0 +1,14 @@
+let arr = []
+arr[0] = 1
+arr[1] = "undesined"
+arr[2] = true
+arr[3] = NaN
+arr[4] = "ukd"
+let me = {
+ name: "evgen",
+ surname: "romanovich",
+ age: 17,
+ home: "Ukraine"
+}
+console.table(arr)
+console.table(me)
